@@ -1,3 +1,3 @@
-let q = 1
-let w = 2
-let e = {q, w}
+let a = 1
+let b = 2
+let c = {q, w}
